@@ -12,8 +12,8 @@ This documentatation explains the use the project hosted by this repository. In 
 
 
 Code snippet:
-`
+```
 import os
 s = "Python syntax highlighting"
 print('The message is', s)
-`
+```
