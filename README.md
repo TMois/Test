@@ -9,3 +9,10 @@ This documentatation explains the use the project hosted by this repository. In 
 1. Run the main.py file using the following command:
     1. `python main.py`
 1. Now open the browser to use the project.
+
+
+Code snippet:
+
+import os
+s = "Python syntax highlighting"
+print('The message is', s)
