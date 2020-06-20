@@ -7,5 +7,5 @@ This documentatation explains the use the project hosted by this repository. In 
     1. <code>git clone <repository_url></code>
 1. Then change to the project directory
 1. Run the main.py file using the following command:
-    1. `python main.py
+    1. `python main.py`
 1. Now open the browser to use the project.
