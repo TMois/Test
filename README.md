@@ -17,3 +17,5 @@ import os
 s = "Python syntax highlighting"
 print('The message is', s)
 ```
+
+You can checkout more details here: [Click here](https://www.google.com)
